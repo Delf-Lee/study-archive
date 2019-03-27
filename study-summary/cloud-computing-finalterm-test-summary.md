@@ -146,8 +146,8 @@ AWS 실습 3
 1. [AWS Q&A](https://drive.google.com/open?id=1_7kXrcMm9BByYPi6Eh75R4vs8Ywv3IEVM0p3q8HTYOs)
 2. [Cloud Architecture](https://drive.google.com/open?id=1iIH7vEjLubIFgcOutkuZJQKPORhpcSnY15iHUz5DwwI)
 3. [Cloud System 요소기술](https://drive.google.com/open?id=1DAgEePJdq_QlaPoSd3fkUBFo7-Oekwyv0V6I9WfbBdw)
-4. [Cloud를 실현하는 기술](ttps://drive.google.com/open?id=1x93GVLFWGl9jFUqAc7FFapZ8-jMTUpuOH7mcVjBZb0o)
-5. [AutoScaling 실습 1](ttps://drive.google.com/open?id=1_PEnwC_3Dq5k3lyyMx_PYaJP_6xlSohS7C9pjOuoNaw)
+4. [Cloud를 실현하는 기술](https://drive.google.com/open?id=1x93GVLFWGl9jFUqAc7FFapZ8-jMTUpuOH7mcVjBZb0o)
+5. [AutoScaling 실습 1](https://drive.google.com/open?id=1_PEnwC_3Dq5k3lyyMx_PYaJP_6xlSohS7C9pjOuoNaw)
 
 #### 11주차
 
