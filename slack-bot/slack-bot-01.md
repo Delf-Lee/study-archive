@@ -27,8 +27,9 @@
 - MySQL
 - Spring JPA
 
-
 ## 큰 그림
 ![](./resouces/summary.png)
 
 아마 대략적으로 이런 그림이 되지 않을까 싶은데, 추후에 자세히 그려봐야겠다
+
+## 인증
